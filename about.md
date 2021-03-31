@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Abhinandan! I am a Financial Risk Professional looking to transition to Data Science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a part-time Chess player and a big Football(Soccer) fan. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+abhinandan.mohan@gmail.com
